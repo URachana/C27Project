@@ -48,7 +48,7 @@ function setup() {
 	bobO4 = new Bob(450,550,50);
 	bobO5 = new Bob(550,550,50);
 	bobO6 = new Bob(650,550,50);
-	bobDia= 100;
+	bobDia= 80;
 	roof = new Roof(450,10,900,20);
 
 	rope1 = new Rope(bobO4.body,roof.body,0,0);
